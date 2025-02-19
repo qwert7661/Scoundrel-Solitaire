@@ -3,7 +3,7 @@ Scoundrel is a solitaire roguelike designed in 2011 by Zach Gage and Kurt Bieg i
 
 Runs from only one .py file, ScoundrelPG.py
 
-File "graphics" should be in the same file location as Scoundrel.py
+File "graphics" should be in the same file location as ScoundrelPG.py
 
 Requires pygame.
 
